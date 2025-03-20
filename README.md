@@ -13,7 +13,7 @@ Projeto Node.js para validar e-mails utilizando a API Verifalia. O sistema lê e
 
 ### 1️⃣ Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/verifalia-email-validator.git
+git clone https://github.com/rodrigogolfeto/verifalia-email-validator.git
 cd verifalia-email-validator
 ```
 
